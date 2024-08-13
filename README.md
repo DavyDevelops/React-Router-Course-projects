@@ -90,7 +90,7 @@ To get started with these projects, follow these steps:
 1. Clone this repository:
 
     ```
-    git clone https://github.com/yourusername/react-router-v6-projects.git
+    git clone https://github.com/DavyDevelops/React-Router-Course-projects.git
     ```
 
 2. Navigate to the project directory:
